@@ -1,0 +1,168 @@
+.text1 {
+	display: inline-block;
+	font-family: 'BPG Nino Mtavruli Bold';
+	vertical-align: middle;
+}
+.text2 {
+	display: inline-block;
+	font-family: 'BPG Nino Mtavruli Bold';
+	vertical-align: middle;
+}
+.text3 {
+	display: inline-block;
+	font-family: 'BPG Nino Mtavruli Bold';
+	vertical-align: middle;
+}
+.nav1 {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 50px;
+}
+.logo {
+	display: inline-block;
+	vertical-align: middle;
+}
+.nav-a {
+	color: #3D58A6;
+	font-size: 22px;
+}
+.text2 {
+	margin-left: 22px;
+	margin-right: 22px;
+}
+.left-block {
+	display: inline-block;
+	width: 570px;
+	background-color: #F2F2F2;
+	padding-top: 10.1px;
+	padding-bottom: 24.3px;
+	padding-right: 27.8px;
+	padding-left: 15px;
+	margin-top: 30.8px;
+}
+.right-block {
+	display: inline-block;
+	width: 570px;
+	background-color: #F2F2F2;
+	padding-top: 10.1px;
+	padding-right: 17.6px;
+    padding-bottom: 15.5px;
+    padding-left: 20.2px;
+}
+.text-block {
+	display: inline-block;
+	width: 355px;
+	vertical-align: middle;
+	margin-left: 60px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+}
+.image-block {
+	vertical-align: middle
+	/*margin-right: 60px;*/
+}
+.title-block {
+	margin-bottom: 13px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 22px;
+}
+.title-block1 {
+	font-family: 'Roboto';
+	margin-bottom: 13px;
+	font-size: 22px;
+}
+.text-block1 {
+	font-family: 'Roboto';
+	display: inline-block;
+	width: 355px;
+	vertical-align: middle;
+	margin-left: 60px;
+	font-size: 20px;
+}
+.divider {
+	width: 2px;
+	height: 27px;
+	background-color: #363E97;
+	display: inline-block;
+	margin-left: 35.6px;
+	margin-right: 30.2px;
+}
+.contact-bg {
+	background-color: #E6E6E6;
+	margin-top: 24.4px;
+
+}
+/*.contact-title {
+	text-align: center;
+}*/
+.contact-left-block {
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 75px;
+}
+.contact-right-block {
+	display: inline-block;
+	vertical-align: top;
+}
+.container {
+	width: 1175px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.date {
+	background-color: #3D58A6;
+	color: white;
+	display: inline-block;
+	font-size: 48px;
+	margin-top: 35.8px;
+}
+.article-image {
+	display: inline-block;
+	width: 270px;
+	height: 210px;
+	margin-right: 39px;
+	vertical-align: top;
+}
+.article-text {
+	display: inline-block;
+	width: 929.02px;
+	height: 360px;
+	vertical-align: top;
+}
+.article-text1 {
+	margin-bottom: 29px;
+	font-family: "BPG Nino Elite Exp Caps", sans-serif;
+	font-size: 16px;
+}
+.article-text2 {
+	font-size: 16px;
+	font-family: "BPG Nino Elite Exp Caps", sans-serif;
+}
+.text5 {
+	margin-top: 17.5px;
+	margin-bottom: 17.5px;
+}
+.text4 {
+	color: #3D58A6;
+	margin-top: 10px;
+	font-size: 22px;
+}
+.active {
+	color: #EE4036;
+}
+.image {
+	margin-top: 77px;
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 116.6px;
+	position: relative;
+}
+.imagetext {
+	position: absolute;
+	top: 150px;
+	left: 38.4px;
+	color: white;
+	font-size: 30px;
+	width: 425px;
+}
